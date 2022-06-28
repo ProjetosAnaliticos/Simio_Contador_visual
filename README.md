@@ -31,6 +31,14 @@ Após realizados os passos anteriores, deve-se selecionar o nó que deseja reali
 
 
 
+Autores: Kelly Alves de Paula
+
+Wagner Gurgel
+
+Revisão: Arnaldo Gunzi
+
+
+
 
 
 Basta adicionar um “Status Label” e definir o nome da expressão que ele irá mostrar.
